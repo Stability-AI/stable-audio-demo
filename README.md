@@ -1,4 +1,4 @@
-⚠️ Warning: This website may not function properly on Safari. For the best experience, please use Google Chrome.
+⚠️ *Warning: This website may not function properly on Safari. For the best experience, please use Google Chrome.*
 
 Our model can generate **variable-length and long-form stereo music at 44.1kHz**:
 
