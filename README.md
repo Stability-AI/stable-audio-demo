@@ -1,7 +1,9 @@
 ⚠️ *Warning: This website may not function properly on Safari. For the best experience, please use Google Chrome.*
 
 [`arXiv`](https://arxiv.org/abs/2402.04825): Stable Audio's paper
+
 [`stable-audio-tools`](https://github.com/Stability-AI/stable-audio-tools): code to reproduce Stable Audio
+
 [`stable-audio-metrics`](https://github.com/Stability-AI/stable-audio-metrics): code to evaluate Stable Audio
 
 Our model can generate **variable-length and long-form stereo music at 44.1kHz**:
